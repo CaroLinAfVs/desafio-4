@@ -1,0 +1,75 @@
+h1,
+a,
+p,
+input,
+button{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.cuppon{
+    height: 25px;
+}
+nav img{
+    padding-left: 30px;
+    vertical-align: middle;
+}
+.container-fluid{
+    background-color: green;
+    padding: 0.4rem 1rem;
+}
+.navbar{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    color: white !important;
+}
+
+.row{
+    padding-top: 3rem;
+    padding-bottom: 50px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-right: 0px ;
+}
+
+.card-body p{
+    color:#707070; 
+    font-weight: 300;
+    font-size: 1em;
+}
+.card-body h2{
+    color: #212529;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+.card-footer{
+    letter-spacing: normal;
+    text-align: right;
+    background-color: transparent;
+}
+.card-footer p{
+    display:inline-block ;
+    color: #707070;
+}
+
+.información{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
+
+.logo2{
+    height: 24px;
+    vertical-align: middle;
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
